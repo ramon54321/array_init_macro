@@ -4,6 +4,6 @@ version = "0.1.0"
 edition = "2021"
 description = "Simple initialization macro for arrays."
 license = "MIT"
-repo = "https://github.com/ramon54321/array_init_macro.git"
+repository = "https://github.com/ramon54321/array_init_macro.git"
 
 [dependencies]
