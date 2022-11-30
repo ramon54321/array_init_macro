@@ -6,6 +6,8 @@
 
 Provides a simple macro to initialize an array given a type, size and value.
 
+[Crate on Crates.io](https://crates.io/crates/array_init_macro)
+
 ```rust
 use array_init_macro::arr;
 
